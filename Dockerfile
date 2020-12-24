@@ -1,1 +1,1 @@
-FROM gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler-hpa:v0.10.0
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler:v0.10.0
