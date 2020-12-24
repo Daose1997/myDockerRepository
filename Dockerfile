@@ -1,1 +1,1 @@
-FROM gcr.io/knative-releases/knative.dev/serving/cmd/networking/istio:v0.10.0
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/queue:v0.10.0
