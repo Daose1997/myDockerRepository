@@ -1,1 +1,1 @@
-FROM gcr.io/knative-releases/knative.dev/eventing/cmd/cronjob_receive_adapter@sha256:bdf30b32d57e1536fca5e436ce9c074827afd5f6f5eceed4cc0a8ca97096cefa
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/apiserver_receive_adapter@sha256:67300996636df61f7271cfaed335b57daaea9496acebb6f8db68b9f81931b2db
